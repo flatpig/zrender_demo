@@ -1,0 +1,9 @@
+{
+  "name": "zrender-demo",
+  "version": "1.0.0",
+  "description": "zrender-demo",
+  "main": "index.js",
+  "repository": "https://github.com/flatpig/zrender_demo.git",
+  "author": "grayslee",
+  "license": "MIT"
+}
